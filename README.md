@@ -1,7 +1,11 @@
-## Hi there 👋
+#### $\textsf{{\color{white}hey there. i'm }{\color[rgb]{0.9, 0.5, 0.0}I}{\color[rgb]{0.9111, 0.5333, 0.0}e}{\color[rgb]{0.9222, 0.5666, 0.0}m}{\color[rgb]{0.9333, 0.5999, 0.0}o}{\color[rgb]{0.9444, 0.6333, 0.0}n}{\color[rgb]{0.9555, 0.6666, 0.0}t}{\color[rgb]{0.9666, 0.6999, 0.0}i}{\color[rgb]{0.9777, 0.7332, 0.0}n}{\color[rgb]{0.9888, 0.7665, 0.0}e}{\color[rgb]{1, 0.8, 0.0}!}}$✨
 
+$\textsf{{\color{white}a }{\color{red}computer\ scientist}{\color{white} with a passion for all things }{\color{green}machine\ learning}{\color{white} and }{\color{blue}artificial intelligence}{\color{white}.}}$
+
+#### $\textsf{{\color{gray}fourth year academia, seeking research and internship opportunities.}}$
+
+#### $\textsf{{\color{white}proficient in }{\color{Teal}Python}{\color{white}, }{\color{ProcessBlue}C}{\color{white}, }{\color{Cyan}C++}{\color{white}, }{\color{Cerulean}CSharp}{\color{white}, }{\color[rgb]{0.8, 0.5, 0.0}Java}{\color{white}, }{\color[rgb]{0.0, 0.4, 0.0}JavaScript}{\color{white}, and }{\color[rgb]{0.8, 0.2, 0.2}VB.NET}{\color{white}.}}$
 <!--
-**Iemontine/Iemontine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
