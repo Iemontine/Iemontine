@@ -6,7 +6,7 @@ $\textsf{{\color{white}a }{\color{Maroon}computer scientist}{\color{white} with 
 
 #### $\textsf{{\color{white}proficient in }{\color[rgb]{1, 0.796, 0.227}Python}{\color{white}, }{\color[rgb]{0.9725, 0.596, 0.1337}Java}{\color{white}, }{\color[rgb]{0.9411, 0.8588, 0.309}JavaScript}{\color{white}, }{\color[rgb]{0.396, 0.604, 0.824}C}{\color{white}, }{\color{Periwinkle}C++}{\color{white}, }{\color[rgb]{0.635, 0.5288, 0.8649}CSharp}{\color{white}, }{\color{BrickRed}HTML/CSS}{\color{white}, }{\color{Bittersweet}VB.NET}{\color{white}, }{\color{RedOrange}Bash scripting}{\color{white}.}}$
 
-#### $\textsf{{\color{gray}-- specs: RTX 4090, AMD Ryzen 9 5900X}}$
+#### $\textsf{{\color{gray}-- specs: RTX 4070, AMD Ryzen 9 5900X}}$
 
 #### $\textsf{{\color{white}favorite libraries/APIs: }{\color{RoyalBlue}PyTorch}{\color{white}, }{\color{RoyalBlue}Gymnasium}{\color{white}, }{\color{RoyalBlue}Pycord}{\color{white}, }{\color{RoyalBlue}Pillow}{\color{white}, }{\color{RoyalBlue}BeautifulSoup}{\color{white}, }{\color{RoyalBlue}OpenAI}{\color{white}, }{\color{RoyalBlue}Microsoft Azure}}$
 
