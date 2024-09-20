@@ -1,4 +1,4 @@
-#### $\textsf{{\color{white}hey there. i'm }{\color[rgb]{0.9, 0.5, 0.0}I}{\color[rgb]{0.9111, 0.5333, 0.0}e}{\color[rgb]{0.9222, 0.5666, 0.0}m}{\color[rgb]{0.9333, 0.5999, 0.0}o}{\color[rgb]{0.9444, 0.6333, 0.0}n}{\color[rgb]{0.9555, 0.6666, 0.0}t}{\color[rgb]{0.9666, 0.6999, 0.0}i}{\color[rgb]{0.9777, 0.7332, 0.0}n}{\color[rgb]{0.9888, 0.7665, 0.0}e}{\color[rgb]{1, 0.8, 0.0}!}}$✨🍋
+#### $\textsf{{\color{white}hey there. i'm }{\color[rgb]{0.9, 0.5, 0.0}I}{\color[rgb]{0.9111, 0.5333, 0.0}e}{\color[rgb]{0.9222, 0.5666, 0.0}m}{\color[rgb]{0.9333, 0.5999, 0.0}o}{\color[rgb]{0.9444, 0.6333, 0.0}n}{\color[rgb]{0.9555, 0.6666, 0.0}t}{\color[rgb]{0.9666, 0.6999, 0.0}i}{\color[rgb]{0.9777, 0.7332, 0.0}n}{\color[rgb]{0.9888, 0.7665, 0.0}e}{\color[rgb]{1, 0.8, 0.0}!}}$✨
 
 $\textsf{{\color{white}a }{\color{Maroon}computer scientist}{\color{white} with a passion for all things }{\color{ForestGreen}machine learning}{\color{white} and }{\color{NavyBlue}artificial intelligence}{\color{white}.}}$
 
