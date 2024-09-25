@@ -8,7 +8,7 @@ $\textsf{{\color{white}a }{\color{Maroon}computer scientist}{\color{white} with 
 
 #### $\textsf{{\color{gray}-- specs: RTX 4070, AMD Ryzen 9 5900X}}$
 
-#### $\textsf{{\color{white}favorite libraries/APIs: }{\color{RoyalBlue}PyTorch}{\color{white}, }{\color{RoyalBlue}Gymnasium}{\color{white}, }{\color{RoyalBlue}Pycord}{\color{white}, }{\color{RoyalBlue}Pillow}{\color{white}, }{\color{RoyalBlue}BeautifulSoup}{\color{white}, }{\color{RoyalBlue}OpenAI}{\color{white}, }{\color{RoyalBlue}Microsoft Azure}}$
+#### $\textsf{{\color{white}favorite libraries/APIs: }{\color{RoyalBlue}PyTorch}{\color{white}, }{\color{RoyalBlue}OpenAI}{\color{white}, }{\color{RoyalBlue}Gymnasium}{\color{white}, }{\color{RoyalBlue}Pycord}{\color{white}, }{\color{RoyalBlue}Pillow}{\color{white}, }{\color{RoyalBlue}BeautifulSoup}{\color{white}, }{\color{RoyalBlue}Microsoft Azure}}$
 
 <!--
 
